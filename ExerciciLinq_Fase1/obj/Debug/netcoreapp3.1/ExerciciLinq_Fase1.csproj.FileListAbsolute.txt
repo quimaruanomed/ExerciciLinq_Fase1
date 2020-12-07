@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\bin\Debug\netcoreapp3.1\ExerciciLinq_Fase1.exe
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\bin\Debug\netcoreapp3.1\ExerciciLinq_Fase1.deps.json
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\bin\Debug\netcoreapp3.1\ExerciciLinq_Fase1.runtimeconfig.json
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\bin\Debug\netcoreapp3.1\ExerciciLinq_Fase1.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\bin\Debug\netcoreapp3.1\ExerciciLinq_Fase1.dll
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\bin\Debug\netcoreapp3.1\ExerciciLinq_Fase1.pdb
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\obj\Debug\netcoreapp3.1\ExerciciLinq_Fase1.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\obj\Debug\netcoreapp3.1\ExerciciLinq_Fase1.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\obj\Debug\netcoreapp3.1\ExerciciLinq_Fase1.AssemblyInfo.cs
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\obj\Debug\netcoreapp3.1\ExerciciLinq_Fase1.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\obj\Debug\netcoreapp3.1\ExerciciLinq_Fase1.dll
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\obj\Debug\netcoreapp3.1\ExerciciLinq_Fase1.pdb
+C:\Users\jruan\source\repos\ExerciciLinq_Fase1\ExerciciLinq_Fase1\obj\Debug\netcoreapp3.1\ExerciciLinq_Fase1.genruntimeconfig.cache
